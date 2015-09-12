@@ -1,0 +1,24 @@
+		  
+		  <div class="form-group">
+            <label class="col-sm-2 control-label" for="textinput">Wishlists</label>
+          </div>
+		  
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="textinput">Asset</label>
+            <div class="col-sm-10">
+              <input type="text" placeholder="asset name" class="form-control">
+            </div>
+          </div>
+		  
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="textinput">Duration</label>
+            <div class="col-sm-4">
+              <input type="text" placeholder="duration" class="form-control">
+            </div>
+
+            <label class="col-sm-2 control-label" for="textinput">Amount</label>
+            <div class="col-sm-4">
+              <input type="text" placeholder="amt" class="form-control">
+            </div>
+          </div>
+		  <button id="bb" class="btn btn-primary btn-block add-more" type="button">+</button>

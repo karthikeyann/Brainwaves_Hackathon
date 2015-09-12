@@ -1,0 +1,19 @@
+        <div class="item  col-xs-4 col-lg-4">
+            <div class="thumbnail">
+                <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
+                <div class="caption">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">
+                            <h4 class="group inner list-group-item-heading">
+                        User two</h4>
+                        </div>
+						<div class="col-xs-3 col-md-3">
+                            <a class="btn btn-success" href="viewuser.php?user=user1">View</a>
+                        </div>
+                        <div class="col-xs-3 col-md-3">
+                            <a class="btn btn-success" href="edituser.php?user=user1">Edit</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
